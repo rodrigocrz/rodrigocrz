@@ -56,11 +56,11 @@
 <a href="#"><img src="https://img.shields.io/badge/.NET-%230D1117.svg?style=rounded-square&logo=.net&logoColor=3859BD"></a>
 <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?style=rounded-square&logo=amazon-dynamodb&logoColor=3859BD"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Arduino-0D1117?style=rounded-square&logo=Arduino&logoColor=3859BD"></a>
-<a href="#"><img src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=rounded-square&logo=markdown&logoColor=3859BD"></a>
 
 <h5>Others, hehe 😅</h5>
 <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=rounded-square&logo=html5&logoColor=3859BD"></a>
 <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=rounded-square&logo=css3&logoColor=3859BD"></a>
+<a href="#"><img src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=rounded-square&logo=markdown&logoColor=3859BD"></a>
 
 <h4>Libraries and Frameworks</h4>
 <a href="#"><img src="https://img.shields.io/badge/Node-0D1117.svg?style=rounded-square&logo=node.js&logoColor=3859BD"></a>
@@ -114,6 +114,7 @@
 <a href="#"><img src="https://img.shields.io/badge/-Swift-0D1117?style=rounded-square&logo=swift&logoColor=3859BD"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Go-0D1117?style=rounded-square&logo=go&logoColor=3859BD"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Django-0D1117?style=rounded-square&logo=django&logoColor=3859BD"></a>
+<a href="#"><img src="https://img.shields.io/badge/-R-0D1117?style=rounded-square&logo=r&logoColor=3859BD"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Flask-0D1117?style=rounded-square&logo=flask&logoColor=3859BD"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Fastify-0D1117?style=rounded-square&logo=fastify&logoColor=3859BD"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Hapi-0D1117?style=rounded-square&logo=hapi&logoColor=3859BD"></a>
