@@ -15,8 +15,6 @@
 <p align="left">
     <h2>👨🏽‍💻 About me</h2>
     🤤 Tech passionate and Software Engineering Student at the final stage of training. 
-    <br/>
-    🤓 I am currently looking to do a professional internship with the possibility of relocation.
     <br/> 
     🤩 I am passionate about everything related to technology and innovation. 
     <br/> 
