@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello World! I am Rodrigo
+  Hello World! It's Rodrigo
   <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif"/>
 </h1>
 
@@ -27,8 +27,8 @@
 
 <div>
   <div align="center">
-    <img alt="Rodrigo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rodrigocrz&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3859BD&icon_color=3859BD" height="180"/>
-    <img alt="Rodrigo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocrz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3859BD&icon_color=3859BD" height="180"/>
+    <img alt="Rodrigo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rodrigocrz&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3859BD&icon_color=3859BD" height="160"/>
+    <img alt="Rodrigo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocrz&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3859BD&icon_color=3859BD" height="160"/>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
