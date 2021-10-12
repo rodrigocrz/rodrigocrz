@@ -15,7 +15,9 @@
 <p align="left">
     <h2>👨🏽‍💻 About me</h2>
     🤤 Tech passionate and Software Engineering Student at the final stage of training. 
-    <br/> 
+    <br/>
+    🤝 I currently work professionally as an IT Trainee at Tata Consultancy Services de México and I am a member of some student communities like IBM Student Advocate program and Lambda Club.
+    <br/>
     🤩 I am passionate about everything related to technology and innovation. 
     <br/> 
     💡 Learning and growing personally / professionally are part of my nature.
